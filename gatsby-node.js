@@ -4,6 +4,9 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
+// Increase the maximum number of event listeners to prevent memory leak warnings
+require('events').EventEmitter.defaultMaxListeners = 20;
+
 const path = require('path');
 const _ = require('lodash');
 
