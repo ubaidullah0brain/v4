@@ -4,12 +4,13 @@ title: 'Crown Kabab'
 github: '#'
 external: 'https://crownkabab.com'
 tech:
-  - React
+  - React.js
   - Redux Toolkit
   - RTK Query
   - i18next
   - Payment Integration
+  - Google Login
 showInProjects: true
 ---
 
-Developed a comprehensive food delivery platform for Crown Kabab using React.js with modern state management and internationalization. Features seamless add-to-cart and wishlist functionality, secure payment integration, Google authentication, and multi-language support powered by i18next library for enhanced user experience.
+Developed the frontend of Crown Kabab food delivery website using React.js with modern state management. Features include secure payment integration, Google authentication, seamless add-to-cart and wishlist functionality, and comprehensive internationalization powered by i18next library for enhanced multi-language user experience.
